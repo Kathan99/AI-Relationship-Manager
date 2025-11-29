@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2025-09-01",
+        "category": "Food",
+        "amount": 1200,
+        "merchant": "Zomato"
+    },
+    {
+        "date": "2025-09-05",
+        "category": "Travel",
+        "amount": 4500,
+        "merchant": "Uber Intercity"
+    },
+    {
+        "date": "2025-09-10",
+        "category": "Utilities",
+        "amount": 2000,
+        "merchant": "Adani Electricity"
+    },
+    {
+        "date": "2025-09-15",
+        "category": "Food",
+        "amount": 850,
+        "merchant": "Starbucks"
+    },
+    {
+        "date": "2025-09-20",
+        "category": "Investments",
+        "amount": 5000,
+        "merchant": "Zerodha Fund Transfer"
+    },
+    {
+        "date": "2025-09-28",
+        "category": "Shopping",
+        "amount": 15000,
+        "merchant": "Amazon India"
+    }
+]

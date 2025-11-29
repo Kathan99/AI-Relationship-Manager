@@ -1,0 +1,11 @@
+{
+    "customer_id": "101",
+    "name": "Kathan Patel",
+    "age": 25,
+    "risk_level": "Aggressive",
+    "income": 1200000,
+    "segments": [
+        "Equity Trader",
+        "ETF Investor"
+    ]
+}
