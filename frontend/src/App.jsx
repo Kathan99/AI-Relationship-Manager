@@ -8,7 +8,8 @@ function App() {
   const [contextData, setContextData] = useState(null);
 
   useEffect(() => {
-    axios.get('http://localhost:8000/context')
+    const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:8000';
+    axios.get(`${apiUrl}/context`)
       .then(response => {
         setContextData(response.data);
       })
